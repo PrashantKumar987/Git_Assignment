@@ -1,2 +1,3 @@
 Initial content
 "First Git Assignment"
+New change for soft reset
