@@ -1,2 +1,3 @@
 B2 file content
 Change from b3
+Challenge change in b2 file
