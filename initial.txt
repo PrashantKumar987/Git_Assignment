@@ -2,5 +2,9 @@ Initial content
 "First Git Assignment"
 New change for soft reset
 Change from b1
+<<<<<<< Updated upstream
 Challenge change in initial
 Different local change
+=======
+Another change
+>>>>>>> Stashed changes
