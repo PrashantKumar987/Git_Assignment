@@ -8,3 +8,4 @@ Different local change
 =======
 Another change
 >>>>>>> Stashed changes
+Wrong change
